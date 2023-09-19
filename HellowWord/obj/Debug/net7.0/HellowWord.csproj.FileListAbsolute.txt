@@ -1,0 +1,14 @@
+D:\示例\c#\HellowWord\bin\Debug\net7.0\HellowWord.exe
+D:\示例\c#\HellowWord\bin\Debug\net7.0\HellowWord.deps.json
+D:\示例\c#\HellowWord\bin\Debug\net7.0\HellowWord.runtimeconfig.json
+D:\示例\c#\HellowWord\bin\Debug\net7.0\HellowWord.dll
+D:\示例\c#\HellowWord\bin\Debug\net7.0\HellowWord.pdb
+D:\示例\c#\HellowWord\obj\Debug\net7.0\HellowWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\示例\c#\HellowWord\obj\Debug\net7.0\HellowWord.AssemblyInfoInputs.cache
+D:\示例\c#\HellowWord\obj\Debug\net7.0\HellowWord.AssemblyInfo.cs
+D:\示例\c#\HellowWord\obj\Debug\net7.0\HellowWord.csproj.CoreCompileInputs.cache
+D:\示例\c#\HellowWord\obj\Debug\net7.0\HellowWord.dll
+D:\示例\c#\HellowWord\obj\Debug\net7.0\refint\HellowWord.dll
+D:\示例\c#\HellowWord\obj\Debug\net7.0\HellowWord.pdb
+D:\示例\c#\HellowWord\obj\Debug\net7.0\HellowWord.genruntimeconfig.cache
+D:\示例\c#\HellowWord\obj\Debug\net7.0\ref\HellowWord.dll
